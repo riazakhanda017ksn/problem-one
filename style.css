@@ -1,0 +1,39 @@
+body{background-color: #000000b6;color:#fafafa;padding: 10px;}
+
+.dxt{margin-left:100px}
+
+.text-lefts{margin-left:95px;}
+
+.form-control.input {
+	display: inline-block;
+	width: 37%;
+	background: #1616209c;
+	border: none;
+	font-size: 13px;
+	margin-left: 30%;
+	padding: 10px;
+	color: #fff !important;
+	border-radius: 17px;
+}
+.btn.btn-info.info {
+	background: #0e3348;
+	border: none;
+	padding: 11px 18px;
+	font-size: 12px;
+	border-radius: 0px 17px 17px 0px;
+	color: #ddd;
+	position: relative;
+	right: 27px;
+	bottom: 1px;
+}
+
+.class-design {
+	background: #0D0C16AB;
+	padding: 16px 42px;
+	text-align: center;
+	width: 31%;
+	border-radius: 10px;
+	margin: 10px;
+	display: inline-block;
+    cursor: pointer;
+}
