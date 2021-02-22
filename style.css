@@ -31,9 +31,44 @@ body{background-color: #000000b6;color:#fafafa;padding: 10px;}
 	background: #0D0C16AB;
 	padding: 16px 42px;
 	text-align: center;
-	width: 31%;
+	width: 100%;
 	border-radius: 10px;
 	margin: 10px;
 	display: inline-block;
-    cursor: pointer;
+	cursor: pointer;
+}
+.ancor {
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: 600;
+	color: #4d7edc;
+	transition: .4s;
+}
+
+.ancor:hover {
+	font-weight: 700;
+	color: #FFF;
+	letter-spacing: 1px;
+}
+
+.showDetails {
+	border: 1px solid #DDDDDD1C;
+	padding: 20px;
+	border-radius: 10px;
+	margin: 57px;
+}
+
+.showDetails img{width:200px}
+
+.showDetails strong {
+	font-weight: 600;
+	padding: 10px 0;
+	display: inline-block;
+	color: #C6C6C66B;
+}
+.showDetails p {
+	color: #C6C6C66B;
+	font-size: 13px;
+	font-weight: 500;
+
 }
